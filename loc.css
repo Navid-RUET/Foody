@@ -1,0 +1,24 @@
+body{
+		background:url('110.jpg') no-repeat;
+		background-size: cover;
+		font-family:times new roman;
+		color:white;
+}
+h1{
+	font-size:70px;
+	text-align:center;
+}
+p{
+	font-size:30px;
+	text-align:center;
+	color:slateblue;
+	border:2px black;
+	border-bottom-width: 50%;
+	background-color:black;
+	color:white;
+}
+h2{
+	font-size:30px;
+	color:yellow;
+	text-align:center;
+}
